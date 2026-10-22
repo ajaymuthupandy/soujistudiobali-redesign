@@ -1,0 +1,6 @@
+# Local-only files: never upload to Vercel
+audit/
+.taste-skill/
+dogfood-output/
+*.log
+README.md
